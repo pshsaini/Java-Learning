@@ -56,7 +56,7 @@ public class ConditionJava {
 		}
 		
 		if (s1.contains("Saini")&& s2.contains("Saini")&& s3.contains("Saini")&& s4.contains("Saini")) {
-			System.out.println("XYZ:");
+			System.out.println("XYZPP:");
 			
 			
 			}
