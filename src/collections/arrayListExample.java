@@ -8,6 +8,17 @@ public class arrayListExample {
 
 ArrayList<String> al=new ArrayList<String>();
 
+//Adding n no. of arrays 
+int numbers[]= {10,15,45,765,888,7};
+int sum=0;
+
+for(int i=0; i < numbers.length; i++) {
+	sum = sum + numbers[i];
+	
+}
+System.out.println(sum);
+//
+
 al.add("Tosca");//0th index
 al.add("Selenium");//1st index
 al.add("UFT");//2nd index
@@ -32,3 +43,4 @@ for(int a=0;a<5;a++) {
 	}
 	}
 }
+

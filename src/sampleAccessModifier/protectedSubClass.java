@@ -1,6 +1,6 @@
 package sampleAccessModifier;
 
-import accessModifiers.protectedExample;
+import accessModifier.protectedExample;
 
 public class protectedSubClass extends protectedExample{
 
